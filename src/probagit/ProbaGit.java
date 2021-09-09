@@ -15,7 +15,8 @@ public class ProbaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Первая версия программы");
+        System.out.println("Вторая версия программы")
     }
     
 }
